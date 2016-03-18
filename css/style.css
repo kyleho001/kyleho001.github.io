@@ -1,0 +1,95 @@
+a:link{
+  color:#FFFF00;
+  text-decoration: none
+}
+a:visited{
+  color:#DF3A01;
+}
+a:hover{
+  color:lightred;
+}
+a:focus{
+  color:white;
+}
+a:active{
+  color:white;
+}
+
+  
+
+body {
+  background-color:red;
+    font-family: 'Passion One', cursive;
+  font-size:26px;
+  background: url("http://files.gamebanana.com/img/ss/tuts/50d5ecacaad1f.jpg");
+}
+
+
+.Banner {
+  background-color:#0B6121;
+  height: 70px;
+} 
+.SteamLogo {
+  margin:10px;
+  height:50px;
+  &:hover {
+  opacity:1;
+  }
+          
+}
+.BackpackTF {
+  margin:10px;
+  height:50px;
+  &:hover {
+  opacity:1;
+  }
+     
+}
+.ScrapTF {
+  margin:10px;
+  height:50px;
+  &:hover {
+  opacity:1;          
+  }
+  
+}
+
+.Trade_Me {
+  background-color:#FACC2E;
+  height: 60px;
+  width: 500px;
+}
+
+
+.selling {
+   background-color:#3300CC;
+   height: 500px;
+   width: 500px;
+}
+
+.sellingText {
+  background-color:#01DF3A;
+  height: 60px;
+  width: 450px;
+}
+
+.buying {
+   background-color:#CC0000;
+   height: 90px;
+   width: 500px;
+}
+
+.buyingText {
+  background-color:#3366CC;
+  height: 60px;
+  width: 500px;
+}
+
+
+
+text-shadow: 2px 2px 10px #42A5F5;
+  filter: dropshadow(color=#000000, offx=2, offy=2);
+}
+
+
+
