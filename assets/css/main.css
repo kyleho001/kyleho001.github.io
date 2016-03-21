@@ -1511,8 +1511,8 @@
 		background: url("https://media.giphy.com/media/Jf6GzsmPwI90s/giphy.gif");
 		background-size: cover;
 		width: 100%;
-    	animation: example 10s infinite;
-    	-webkit-animation: example 10s infinite;
+    	animation: example 30s infinite;
+    	-webkit-animation: example 30s infinite;
 	}
 
 	@keyframes example {
