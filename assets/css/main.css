@@ -1503,6 +1503,16 @@
 
 	}
 
+
+/* Intro */
+	
+	#intro {
+		padding: 25px;
+		background:url("http://media.steampowered.com/apps/440/icons/wikicap_large.0aaf0120e516d1bb8310139edbd8ef220c0faac6.png");
+		    background-size: contain;
+	}
+
+
 /* Main */
 
 	#main {
