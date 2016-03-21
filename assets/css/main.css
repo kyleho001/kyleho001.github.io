@@ -1517,9 +1517,9 @@
 
 	@keyframes example {
     	0% {}
-    	25% {width:500px}
-    	50% {}
-    	75% {background: url("https://media.giphy.com/media/bsj2Hm0Su0kiQ/giphy.gif");}
+    	25% {}
+    	50% {background: url("https://media.giphy.com/media/bsj2Hm0Su0kiQ/giphy.gif")}
+    	75% {}
     	100% {}
 	}
 
