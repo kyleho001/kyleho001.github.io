@@ -1508,6 +1508,7 @@
 	
 	#intro {
 		padding: 25px;
+		color:black;
 		background:url("http://vignette1.wikia.nocookie.net/battlenations/images/e/ef/Tf2_hero_scout_back_attack2.gif/revision/latest?cb=20140920031220");
 		    background-size: contain;
 	}
