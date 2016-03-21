@@ -1508,11 +1508,40 @@
 	
 	#intro {
 		padding: 25px;
-		
-		background:url("https://33.media.tumblr.com/df169f3df572010c9912d1ff528d9086/tumblr_inline_ngg8uzdmgq1s57jmh.gif");
-		    background-size: contain;
+		background: url("https://media.giphy.com/media/Jf6GzsmPwI90s/giphy.gif");
+		background-size: cover;
+		width: 100%;
+    	animation: example 10s infinite;
+    	-webkit-animation: example 10s infinite;
 	}
 
+	@keyframes example {
+    	0% {}
+    	25% {width:500px}
+    	50% {}
+    	75% {background: url("https://media.giphy.com/media/bsj2Hm0Su0kiQ/giphy.gif");}
+    	100% {}
+	}
+
+	@-webkit-keyframes example {
+		0% {}
+    	50% {width:500px}
+    	100% {}	
+	}
+
+	@media screen and (max-width: 480px) {
+		@keyframes example {
+    		0% {}
+    		50% {width:420px}
+    		100% {}
+		}
+
+		@-webkit-keyframes example {
+			0% {}
+    		50% {width:420px}
+    		100% {}	
+		}
+	}
 
 /* Main */
 
