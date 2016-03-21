@@ -1517,9 +1517,9 @@
 
 	@keyframes example {
     	0% {}
-    	25% {}
-    	50% {background: url("https://media.giphy.com/media/bsj2Hm0Su0kiQ/giphy.gif")}
-    	75% {}
+    	25% {background: url("http://cloud-3.steamusercontent.com/ugc/55502105461458721/09EDFB07D8AFC09FB5A0A089B0DAA0474CE9EF52/")}
+    	50% {background: url("https://secure.static.tumblr.com/45e9ea82ddce5979527e5b960eb9b26b/5d5x6uh/QjUnzp4pd/tumblr_static_tumblr_static_71roht8z40000o4cg0ck0o4k4_640.gif")}
+    	75% {background: url("https://media.giphy.com/media/bsj2Hm0Su0kiQ/giphy.gif")}
     	100% {}
 	}
 
