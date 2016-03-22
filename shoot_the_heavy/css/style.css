@@ -4,6 +4,10 @@ body {
   background-size: cover;
 }
 
+#gamebody {
+ background:url("http://kyleho001.github.io/shoot_the_heavy/images/platform.jpg")
+}
+
 h1 {
   padding: 0px 200px;
       font-family: monospace;
@@ -19,3 +23,25 @@ h4{
 }
 
 a{padding: 0px 250px;}
+
+#scout{
+ background:url("https://wiki.teamfortress.com/w/images/thumb/6/69/Scout.png/250px-Scout.png");
+  background-repeat:no-repeat;
+  background-size: cover;
+  width:300px;
+  height:400px;
+  margin-left: -100px;
+  display: inline-block;
+}
+
+#heavy{
+ background:url("http://c3e308.medialib.glogster.com/media/3a/3a4d62b8905738633b6dc2db7f18f5e6a3cf19b8905024e29ae3deb1f7fe1a06/tf2-heavy-3-png.png");
+  background-repeat:no-repeat;
+  background-size: cover;
+  width:445px;
+  height:532px;
+  display: inline-block;
+    position: absolute;
+    right: 10px;
+}
+
