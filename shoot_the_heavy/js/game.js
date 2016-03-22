@@ -1,4 +1,4 @@
-$(style.css).ready(function(){
+$(document).ready(function(){
   
   setInterval(function(){ 
     $("#heavy").toggleClass("newclass");
