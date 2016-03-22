@@ -1,0 +1,21 @@
+body {
+  background: url("http://kyleho001.github.io/shoot_the_heavy/images/heavy_vs_scout.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  padding: 0px 200px;
+      font-family: monospace;
+  font-size:60px;
+    color:green
+}
+h4{
+  padding: 0px 200px;
+   font-family: monospace;
+  font-size:18px;
+    color:red
+  
+}
+
+a{padding: 0px 250px;}
