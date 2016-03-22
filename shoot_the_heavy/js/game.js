@@ -1,5 +1,6 @@
 $(document).ready(function() {
 
-	//write your JS here
+	$("#heavy").toggleClass("newclass");
+  }, 2000);
 
 });

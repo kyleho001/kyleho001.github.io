@@ -43,5 +43,12 @@ a{padding: 0px 250px;}
   display: inline-block;
     position: absolute;
     right: 10px;
+
+    .newclass {
+  left: 500px !important;
+  opacity: 1 !important;
+  display: block;
+  transition: all 1s ease;
+}
 }
 
