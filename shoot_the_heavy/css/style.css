@@ -43,15 +43,15 @@ a{padding: 0px 250px;}
   position: absolute;
   top: 50px;
   opacity: 0;
-  left: 0;
+  right: 0;
   -webkit-animation: mymove 0.80s infinite;
   animation: mymove 0.80s infinite;
   transition: right 2s ease;
 }
  
     .newclass {
-  right: 500px !important;
-  opacity: 1 !important;
+  right: 10px !important;
+  opacity: 0 !important;
   display: block;
   transition: all 1s ease;
 }
