@@ -46,11 +46,11 @@ a{padding: 0px 250px;}
   left: 0;
   -webkit-animation: mymove 0.80s infinite;
   animation: mymove 0.80s infinite;
-  transition: left 2s ease;
+  transition: right 2s ease;
 }
  
     .newclass {
-  left: 500px !important;
+  right: 500px !important;
   opacity: 1 !important;
   display: block;
   transition: all 1s ease;
