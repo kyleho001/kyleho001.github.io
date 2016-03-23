@@ -44,11 +44,20 @@ a{padding: 0px 250px;}
   top: 50px;
   right: -400px;
   opacity: 0;
-  transition: right 1s ease;
+  transition: right 4s ease;
 }
+
+.explosion {
+  background: url("http://1.bp.blogspot.com/-EXrHTPc2OXk/Uv_cGFw56gI/AAAAAAAAAKs/Z-OHd1qeaU0/s1600/kevinexplosionlarge.gif");
+ background-repeat:no-repeat;
+  background-size: cover;
+   width:445px;
+  height:532px;
+}
+
  
 .newclass {
-  right: 500px !important;
+  right: 780px !important;
   opacity: 1 !important;
 }
 
