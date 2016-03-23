@@ -42,17 +42,16 @@ a{
   width:445px;
   height:532px;
   position: relative;
-  top: 50px;
-  right: -1000px;
+  top: 50%;
+  right: -800px;
   opacity: 0;
   display: inline-block;
   transition: right 4s ease;
 }
  
 .newclass {
-  right: 200px !important;
+  right: 290px !important;
   opacity: 1 !important;
-  display: block;
 }
 
 .kill {
