@@ -42,18 +42,13 @@ a{padding: 0px 250px;}
   height:532px;
   position: absolute;
   top: 50px;
+  right: -400px;
   opacity: 0;
-  right: 0;
-  -webkit-animation: mymove 0.80s infinite;
-  animation: mymove 0.80s infinite;
-  transition: right 2s ease;
+  transition: right 1s ease;
 }
  
-    .newclass {
-  right: 10px !important;
-  opacity: 0 !important;
-  display: block;
-  transition: all 1s ease;
-}
+.newclass {
+  right: 500px !important;
+  opacity: 1 !important;
 }
 
