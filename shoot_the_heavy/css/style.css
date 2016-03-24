@@ -44,9 +44,19 @@ a{
   position: relative;
   top: 50%;
   right: -800px;
-  opacity: 0;
   display: inline-block;
   transition: right 4s ease;
+  animation: heavy 3s infinite;
+}
+
+@keyframes heavy {
+  from {
+    right: -800px;
+  }
+
+  to {
+    right: 120px;
+  }
 }
  
 .newclass {
